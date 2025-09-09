@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProgrammerProfile</string>
+    <string name="logo_del_lenguaje">Logo del lenguaje</string>
+    <string name="contratar">Contratar</string>
+    <string name="lenguajes_de_programaci_n">lenguajes_de_programaci_n</string>
+    <string name="desarrollador_full_stack">desarrollador_full_stack</string>
+    <string name="ignacio_esteban_hern_n_navarrete_godoy">Ignacio Esteban Hernán Navarrete Godoy</string>
+    <string name="foto_de_perfil">Foto de perfil</string>
+    <string name="lenguaje_de_programaci_n">Lenguaje de programación</string>
+</resources>
